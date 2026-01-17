@@ -63,6 +63,10 @@ npm install
 npm start
 Note: MongoDB setup is required for full backend functionality.
 
+### Doctor Login
+Doctor access is protected using a PIN stored securely via environment variables.
+
+
 Future Scope
 
 -Online medicine delivery integration
