@@ -1,4 +1,4 @@
-SmartCure – Unified Healthcare Web Application
+SmartCure - Unified Healthcare Web Application
 
 ## Team Name
 SmartCure
@@ -9,7 +9,7 @@ SmartCure
 - Sanjay Ramaswamy Komshetpally  
 
 ## Selected Theme
-Healthcare – Technology-driven solution to improve health services and patient care.
+Healthcare - Technology-driven solution to improve health services and patient care.
 
 
 ## Project Overview
