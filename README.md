@@ -1,4 +1,3 @@
-
 ## Screenshots
 
 ### Home Page
