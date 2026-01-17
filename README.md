@@ -66,8 +66,11 @@ Note: MongoDB setup is required for full backend functionality.
 ### Doctor Login
 Doctor access is protected using a PIN stored securely via environment variables.
 
+## Backend Status
+The backend is fully implemented and available in the GitHub repository.
+For hackathon demo purposes, the frontend is deployed on Vercel, and the backend can be connected to any cloud server for production use.
 
-Future Scope
+##Future Scope
 
 -Online medicine delivery integration
 
